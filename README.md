@@ -35,7 +35,7 @@ Welcome to the **<span style="color: #1E90FF;">Basketball Scoreboard</span>** pr
 
 ## Demo 🎮
 
-To see the scoreboard in action, simply open the `index.html` file in your browser.
+To see the scoreboard in action, simply open the `(https://scorebasket1.netlify.app/)` page on your browser.
 
 > **Note:** Replace the placeholder image below with a screenshot of your project.
 
