@@ -1,39 +1,51 @@
-🏀 Basketball Scoreboard
-A digital basketball scoreboard built with HTML, CSS, and JavaScript. This project allows users to keep track of scores for two teams – Home and Guest – with a simple and interactive interface.
+# 🏀 <span style="color: #FF4500;">Basketball Scoreboard</span>
 
-✨ Features
-Increment Score – Add +1, +2, or +3 points for each team.
-New Game Button – Resets the scores to start a fresh game.
-Retro Digital Display – Inspired by classic scoreboards.
-Responsive Design – Works on all screen sizes.
-🛠️ Technologies Used
-HTML – Structure of the scoreboard.
-CSS – Styling and layout design.
-JavaScript – Interactive functionality for score updates.
-📸 Preview
-Here's how the Basketball Scoreboard looks:
-alt text
+[![GitHub stars](https://img.shields.io/github/stars/sunqfuu/Scoreboard?style=social)](https://github.com/sunqfuu/Scoreboard/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sunqfuu/Scoreboard?style=social)](https://github.com/sunqfuu/Scoreboard/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🚀 Getting Started
-Clone the repository:
-git clone https://github.com/sunqfuu/Scoreboard.git
-Navigate into the project folder:
-cd scoreboard  
-Open the website in your browser:
-open index.html  
-🎨 Customization
-Change colors and fonts in index.css to match your preferred theme.
-Modify score increments in index.js if you need different scoring rules.
-Enhance the layout to add more features like a timer or team names.
-🌟 Future Enhancements
-Game Timer – Countdown clock for each quarter.
-Sound Effects – Add buzzer sounds for an authentic experience.
-Local Storage – Save scores even after refreshing the page.
-🙌 Contributions
-Want to enhance the project? Feel free to fork, open issues, or submit pull requests!
+## Overview
 
-📩 Contact
-Project Maintainer: Orhan SAĞIR
-Email: sagir.o@outlook.com
+Welcome to the **<span style="color: #1E90FF;">Basketball Scoreboard</span>** project! 🎉 This digital scoreboard is built with HTML, CSS, and JavaScript. It lets you track scores for two teams—**Home** and **Guest**—with a retro, interactive design that brings back the classic arcade feel.
 
-🏀 Enjoy keeping score with the Basketball Scoreboard! Let the game begin! 🎯
+## Table of Contents
+
+- [Features ⚡](#features-)
+- [Technologies 🔧](#technologies-)
+- [Demo 🎮](#demo-)
+- [Getting Started 🚀](#getting-started-)
+- [Customization 🎨](#customization-)
+- [Future Enhancements 🔮](#future-enhancements-)
+- [Contributing 🛠️](#contributing-)
+- [License 📄](#license-)
+- [Contact 📬](#contact-)
+
+## Features ⚡
+
+- **Increment Score:** Easily add <span style="color: #32CD32;">+1</span>, <span style="color: #32CD32;">+2</span>, or <span style="color: #32CD32;">+3</span> points for each team.
+- **New Game Button:** Reset scores quickly to start a fresh game.
+- **Retro Digital Display:** A nostalgic, arcade-inspired look.
+- **Responsive Design:** Optimized for all screen sizes, from mobile to desktop.
+
+## Technologies 🔧
+
+- **HTML:** Structures the application.
+- **CSS:** Styles and layouts with responsive design.
+- **JavaScript:** Provides the interactive functionality.
+
+## Demo 🎮
+
+To see the scoreboard in action, simply open the `index.html` file in your browser.
+
+> **Note:** Replace the placeholder image below with a screenshot of your project.
+
+![Basketball Scoreboard Preview](./ss.png)
+
+## Getting Started 🚀
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/sunqfuu/Scoreboard.git
